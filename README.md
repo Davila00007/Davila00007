@@ -4,22 +4,40 @@
 
 <h3 align="center">
   Hola, soy Michael Davila
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
+  <img width="180" src="https://github.com/user-attachments/assets/5f1d5fc3-127c-4699-9b36-47c246fae7f2" />
+</p>
+
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante%20de%20Ingeniería%20de%20Software%20en%20UNIMINUTO;Desarrollador%20Frontend;Aprendiendo%20Python%20y%20JavaScript;Interesado%20en%20UI%2FUX%20y%20tecnologías%20web;Bienvenido%20a%20mi%20perfil%20de%20GitHub&font=Fira%20Code&center=true&width=750&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido%20a%20mi%20perfil%20de%20GitHub;Desarrollador%20Frontend%20en%20formación;Apasionado%20por%20las%20tecnologías%20web;Aprendiendo%20nuevos%20lenguajes%20de%20programación;Interesado%20en%20UI%2FUX%20y%20diseño%20de%20interfaces;Siempre%20aprendiendo%20nuevas%20tecnologías&font=Fira%20Code&center=true&width=900&height=45">
   </a>
 </p>
 
 
 ---
 
-- 💻 Estudiante de Ingeniería de Software enfocado en desarrollo frontend y tecnologías web.
-- 💪 Actualmente fortaleciendo conocimientos en JavaScript y Python.
-- 💡 Interesado en diseño de interfaces, experiencia de usuario y desarrollo moderno.
-- 🚀 Siempre aprendiendo nuevas tecnologías y mejorando mis habilidades.
+Soy estudiante de Ingeniería de Software en <b>UNIMINUTO</b>, enfocado en desarrollo frontend y tecnologías web. Actualmente estoy fortaleciendo mis habilidades en JavaScript, Python y diseño de interfaces modernas.
+
+Me interesa construir proyectos funcionales, creativos y visualmente atractivos, mientras continúo aprendiendo nuevas tecnologías y mejorando mi lógica de programación.
+
+Además, constantemente realizo cursos y formaciones relacionadas con programación, desarrollo web, ciberseguridad y tecnología para seguir ampliando mis conocimientos y habilidades.
+
+🌱 Actualmente estoy aprendiendo...
+
+* JavaScript
+* Python
+* UI/UX
+* Desarrollo web moderno
+
+🚀 Me interesa seguir creciendo como desarrollador, participar en proyectos y adquirir experiencia en el mundo del software.
+
+✔ Siempre estoy dispuesto a aprender algo nuevo y mejorar mis habilidades.
+
+Fuera del desarrollo, disfruto la tecnología, los videojuegos, el anime y explorar nuevas ideas relacionadas con programación e innovación.
+
 
 ##  Tecnologías
 
