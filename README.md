@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante%20de%20Ingeniería%20de%20Software%20en%20UNIMINUTO;Desarrollador%20Frontend;Aprendiendo%20Python%20y%20JavaScript;Interesado%20en%20UI%2FUX%20y%20tecnologías%20web;Siempre%20aprendiendo%20nuevas%20tecnologías&font=Fira%20Code&center=true&width=700&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante%20de%20Ingeniería%20de%20Software%20en%20UNIMINUTO;Desarrollador%20Frontend;Aprendiendo%20Python%20y%20JavaScript;Interesado%20en%20UI%2FUX%20y%20tecnologías%20web;Bienvenido%20a%20mi%20perfil%20de%20GitHub&font=Fira%20Code&center=true&width=750&height=45">
   </a>
 </p>
 
