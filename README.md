@@ -60,7 +60,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/michaeldavila3407/)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/micchael-davila-orozco/)
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](davilamichaelnn@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:davilamichaelnn@gmail.com)
 
 ---
 
