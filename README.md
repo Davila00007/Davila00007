@@ -33,41 +33,28 @@
 
 ---
 
-## 📊 Estadísticas del Perfil
+## Estadísticas del Perfil
 
-<div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=Davila00007&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Davila00007&show_icons=true&theme=tokyonight&hide_title=true" />
+</p>
 
 ---
 
-## ⏱ Racha de contribuciones
+##  Actividad en GitHub
 
-<div align=center>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Davila00007&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Davila00007&theme=tokyonight" />
+</p>
 
 ---
 
-## 📈 Actividad en GitHub
+##  Actividad en GitHub
 
 [![Actividad GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Davila00007&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 📊 Lenguajes más utilizados
-
-<div align=center>
-
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Davila00007&show_icons=true&locale=es&layout=compact&theme=radical)]()
-
-</div>
-
----
 
 ## 🔗 Contacto
 
