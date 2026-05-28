@@ -51,16 +51,16 @@
 
 ##  Actividad en GitHub
 
-[![Actividad GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Davila00007&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Davila00007&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 
-## 🔗 Contacto
+##  Contacto
 
 <div align="center">
 
-<a href="https://instagram.com/TU_USUARIO">
+<a href="https://www.instagram.com/michaeldavila3407/">
 <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
