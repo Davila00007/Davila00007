@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante%20de%20Ingeniería%20de%20Software;Desarrollador%20Frontend;Aprendiendo%20Python%20y%20JavaScript;Siempre%20aprendiendo%20nuevas%20tecnologías;Bienvenido%20a%20mi%20perfil%20👀&font=Fira%20Code&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Estudiante%20de%20Ingeniería%20de%20Software%20en%20UNIMINUTO;Desarrollador%20Frontend;Aprendiendo%20Python%20y%20JavaScript;Interesado%20en%20UI%2FUX%20y%20tecnologías%20web;Siempre%20aprendiendo%20nuevas%20tecnologías&font=Fira%20Code&center=true&width=700&height=45">
   </a>
 </p>
 
@@ -21,13 +21,13 @@
 - 💡 Interesado en diseño de interfaces, experiencia de usuario y desarrollo moderno.
 - 🚀 Siempre aprendiendo nuevas tecnologías y mejorando mis habilidades.
 
-## 🛠 Tecnologías
+##  Tecnologías
 
-### 🔧 Lenguajes
+###  Lenguajes
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-### 🔧 Herramientas
+###  Herramientas
 
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,kali,windows,stackoverflow)](https://skillicons.dev)
 
@@ -59,5 +59,4 @@
 ##  Contacto
 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/michaeldavila3407/)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/micchael-davila-orozco)
-
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/micchael-davila-orozco/)
