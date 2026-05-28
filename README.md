@@ -58,16 +58,6 @@
 
 ##  Contacto
 
-<div align="center">
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/michaeldavila3407/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/micchael-davila-orozco)
 
-<a href="https://www.instagram.com/michaeldavila3407/">
-<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<h5 align="center">
-Gracias por visitar mi perfil 👨‍💻
-</h5>
