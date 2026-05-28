@@ -25,11 +25,11 @@
 
 ###  Lenguajes
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev)
 
 ###  Herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,kali,windows,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,windows,stackoverflow)](https://skillicons.dev)
 
 ---
 
@@ -49,7 +49,7 @@
 
 ---
 
-##  Actividad en GitHub
+##  Gráfico de Actividad
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Davila00007&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -60,3 +60,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/michaeldavila3407/)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/micchael-davila-orozco/)
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](davilamichaelnn@gmail.com)
+
+---
+
+<h3 align="center">
+Gracias por visitar mi perfil 🤩
+</h3>
