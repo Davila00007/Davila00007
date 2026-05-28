@@ -13,16 +13,11 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Davila00007/" align="center">
-    <img align="center" alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Davila00007.Davila00007">
-  </a>
-</p>
 
 ---
 
 - 💻 Estudiante de Ingeniería de Software enfocado en desarrollo frontend y tecnologías web.
-- 🌱 Actualmente fortaleciendo conocimientos en JavaScript y Python.
+- 💪 Actualmente fortaleciendo conocimientos en JavaScript y Python.
 - 💡 Interesado en diseño de interfaces, experiencia de usuario y desarrollo moderno.
 - 🚀 Siempre aprendiendo nuevas tecnologías y mejorando mis habilidades.
 
