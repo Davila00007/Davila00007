@@ -54,7 +54,7 @@ Me apasiona seguir explorando nuevas tecnologías, experimentar con diferentes h
 
 ---
 <img align="left" width="150" src="https://github.com/user-attachments/assets/bc15b35f-608e-494b-8360-85a8389397d4"/>
-Fuera del desarrollo, disfruto explorar todo lo relacionado con la tecnología, los videojuegos y el anime. También me gusta descubrir nuevas ideas, aprender sobre innovación y experimentar con herramientas que me permitan seguir creciendo tanto personal como profesionalmente. Me interesa combinar creatividad y tecnología para crear proyectos útiles, modernos y visualmente atractivos.También me gusta el fútbol y compartir momentos de entretenimiento mientras sigo explorando nuevas ideas y proyectos que me ayuden a continuar creciendo y desarrollando nuevas habilidades.
+Fuera del desarrollo, disfruto explorar todo lo relacionado con la tecnología, los videojuegos y el anime. También me gusta descubrir nuevas ideas, aprender sobre innovación y experimentar con herramientas que me permitan seguir creciendo tanto personal como profesionalmente. Me interesa combinar creatividad y tecnología para crear proyectos útiles, modernos y visualmente atractivos.
 
 
 <br clear="right"/> 
