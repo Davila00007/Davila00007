@@ -92,6 +92,3 @@ Fuera del desarrollo, disfruto la tecnología, los videojuegos, el anime y explo
 ---
 
 <h3 align="center"> Gracias por visitar mi perfil </h3> <p align="center"> <img width="110" src="https://github.com/user-attachments/assets/c223c527-2988-4477-98bb-39fbcf8a3c61" /> </p>
-
-
-<img width="480" height="480" alt="Jujutsu Kaisen Hello Sticker" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXI3NDlxd3M0OGQwNWZwaTNhanNqemlsaHU2NDZnZnNjNHl5OXB0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kSxi9DiWH4Q8q1Kbql/giphy.gif" />
