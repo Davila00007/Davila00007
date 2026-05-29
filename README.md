@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=1000% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
 <h3 align="center">
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido%20a%20mi%20perfil%20de%20GitHub;Desarrollador%20Frontend%20en%20formación;Apasionado%20por%20las%20tecnologías%20web;Aprendiendo%20nuevos%20lenguajes%20de%20programación;Interesado%20en%20UI%2FUX%20y%20diseño%20de%20interfaces;Siempre%20aprendiendo%20nuevas%20tecnologías&font=Fira%20Code&center=true&width=900&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido%20a%20mi%20perfil%20de%20GitHub;Desarrollador%20Frontend%20en%20formación;Apasionado%20por%20las%20tecnologías%20web;Aprendiendo%20nuevos%20lenguajes%20de%20programación;Interesado%20en%20UI%2FUX%20y%20diseño%20de%20interfaces;Siempre%20aprendiendo%20nuevas%20tecnologías&font=Fira%20Code&center=true&width=900&height=70&size=30">
   </a>
 </p>
 
