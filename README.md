@@ -19,7 +19,6 @@ Soy estudiante de Ingeniería de Software en <b>UNIMINUTO</b>, enfocado en desar
 
 Me interesa construir proyectos funcionales, creativos y visualmente atractivos, mientras continúo aprendiendo nuevas tecnologías y mejorando mi lógica de programación.
 
-Además, constantemente realizo cursos y formaciones relacionadas con programación, desarrollo web, ciberseguridad y tecnología para seguir ampliando mis conocimientos y habilidades.
 
 
 Actualmente estoy aprendiendo...
