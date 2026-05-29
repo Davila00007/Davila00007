@@ -100,7 +100,8 @@ Fuera del desarrollo, disfruto explorar todo lo relacionado con la tecnología, 
 ---
 
 
-##  Contacto <p align="center"> <a href="https://www.instagram.com/michaeldavila3407/"> <img src="https://skillicons.dev/icons?i=instagram" /> </a> <a href="https://www.linkedin.com/in/micchael-davila-orozco/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:davilamichaelnn@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail&theme=light" /> </a> </p>
+## Contacto
+<p align="center"> <a href="https://www.instagram.com/michaeldavila3407/"> <img src="https://skillicons.dev/icons?i=instagram" /></a> <a href="https://www.linkedin.com/in/micchael-davila-orozco/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:davilamichaelnn@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail&theme=light" /> </a> </p>
 
 ---
 
