@@ -41,7 +41,7 @@ Actualmente estoy aprendiendo...
 </div>
 
 ---
-<img align="right" width="220" src="https://github.com/user-attachments/assets/9a3be63d-5e9f-4bdc-97b8-6d2fa914424d" /> Constantemente realizo cursos y formaciones relacionadas con Constantemente realizo cursos y formaciones relacionadas con programación, desarrollo web, ciberseguridad y tecnología, con el objetivo de seguir ampliando mis conocimientos, fortalecer mis habilidades y mantenerme en constante aprendizaje dentro del mundo del software y la innovación. Siempre busco aprender nuevas herramientas, mejorar mi lógica de programación y desarrollar proyectos que me permitan crecer tanto a nivel técnico como profesional.
+<img align="right" width="200" src="https://github.com/user-attachments/assets/9a3be63d-5e9f-4bdc-97b8-6d2fa914424d" /> Constantemente realizo cursos y formaciones relacionadas con Constantemente realizo cursos y formaciones relacionadas con programación, desarrollo web, ciberseguridad y tecnología, con el objetivo de seguir ampliando mis conocimientos, fortalecer mis habilidades y mantenerme en constante aprendizaje dentro del mundo del software y la innovación. Siempre busco aprender nuevas herramientas, mejorar mi lógica de programación y desarrollar proyectos que me permitan crecer tanto a nivel técnico como profesional.
 
 Me apasiona seguir explorando nuevas tecnologías, experimentar con diferentes herramientas y enfrentar nuevos desafíos que me ayuden a evolucionar como desarrollador. Disfruto aprender de cada proyecto, mejorar mis prácticas de desarrollo y adquirir experiencia en áreas relacionadas con frontend, diseño de interfaces y desarrollo moderno.
 
