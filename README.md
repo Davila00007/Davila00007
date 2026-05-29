@@ -40,10 +40,12 @@ Actualmente estoy aprendiendo...
   <img width="20" src="https://github.com/user-attachments/assets/49413f82-9be2-41da-926a-5dca412f0a50" /> Desarrollo web moderno
 </div>
 
+---
+<img align="right" width="250" src="https://github.com/user-attachments/assets/fda162a9-5b48-462f-aec2-c1936103864d"/>
 
-🚀 Me interesa seguir creciendo como desarrollador, participar en proyectos y adquirir experiencia en el mundo del software.
+Constantemente realizo cursos y formaciones relacionadas con programación, desarrollo web, ciberseguridad y tecnología, con el objetivo de seguir ampliando mis conocimientos, fortalecer mis habilidades y mantenerme en constante aprendizaje dentro del mundo del software y la innovación. Siempre busco aprender nuevas herramientas, mejorar mi lógica de programación y desarrollar proyectos que me permitan crecer tanto a nivel técnico como profesional.
 
-✔ Siempre estoy dispuesto a aprender algo nuevo y mejorar mis habilidades.
+---
 
 Fuera del desarrollo, disfruto la tecnología, los videojuegos, el anime y explorar nuevas ideas relacionadas con programación e innovación.
 
