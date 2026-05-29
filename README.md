@@ -41,13 +41,21 @@ Actualmente estoy aprendiendo...
 </div>
 
 ---
-<img align="right" width="250" src="https://github.com/user-attachments/assets/fda162a9-5b48-462f-aec2-c1936103864d"/>
+<img align="right" width="220" src="https://github.com/user-attachments/assets/9a3be63d-5e9f-4bdc-97b8-6d2fa914424d" /> Constantemente realizo cursos y formaciones relacionadas con Constantemente realizo cursos y formaciones relacionadas con programación, desarrollo web, ciberseguridad y tecnología, con el objetivo de seguir ampliando mis conocimientos, fortalecer mis habilidades y mantenerme en constante aprendizaje dentro del mundo del software y la innovación. Siempre busco aprender nuevas herramientas, mejorar mi lógica de programación y desarrollar proyectos que me permitan crecer tanto a nivel técnico como profesional.
 
-Constantemente realizo cursos y formaciones relacionadas con programación, desarrollo web, ciberseguridad y tecnología, con el objetivo de seguir ampliando mis conocimientos, fortalecer mis habilidades y mantenerme en constante aprendizaje dentro del mundo del software y la innovación. Siempre busco aprender nuevas herramientas, mejorar mi lógica de programación y desarrollar proyectos que me permitan crecer tanto a nivel técnico como profesional.
+Me apasiona seguir explorando nuevas tecnologías, experimentar con diferentes herramientas y enfrentar nuevos desafíos que me ayuden a evolucionar como desarrollador. Disfruto aprender de cada proyecto, mejorar mis prácticas de desarrollo y adquirir experiencia en áreas relacionadas con frontend, diseño de interfaces y desarrollo moderno.
+
+
+<br clear="right"/> 
 
 ---
+<img align="left" width="220" src="https://github.com/user-attachments/assets/bc15b35f-608e-494b-8360-85a8389397d4"/>
+Fuera del desarrollo, disfruto explorar todo lo relacionado con la tecnología, los videojuegos y el anime. También me gusta descubrir nuevas ideas, aprender sobre innovación y experimentar con herramientas que me permitan seguir creciendo tanto personal como profesionalmente. Me interesa combinar creatividad y tecnología para crear proyectos útiles, modernos y visualmente atractivos.También me gusta el fútbol y compartir momentos de entretenimiento mientras sigo explorando nuevas ideas y proyectos que me ayuden a continuar creciendo y desarrollando nuevas habilidades.
 
-Fuera del desarrollo, disfruto la tecnología, los videojuegos, el anime y explorar nuevas ideas relacionadas con programación e innovación.
+
+<br clear="right"/> 
+
+---
 
 
 ##  Tecnologías
