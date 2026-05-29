@@ -24,14 +24,26 @@ Soy estudiante de Ingeniería de Software en <b>UNIMINUTO</b>, enfocado en desar
 Me interesa construir proyectos funcionales, creativos y visualmente atractivos, mientras continúo aprendiendo nuevas tecnologías y mejorando mi lógica de programación.
 
 Además, constantemente realizo cursos y formaciones relacionadas con programación, desarrollo web, ciberseguridad y tecnología para seguir ampliando mis conocimientos y habilidades.
-<img width="20" src="https://github.com/user-attachments/assets/49413f82-9be2-41da-926a-5dca412f0a50" />
 
-🌱 Actualmente estoy aprendiendo...
 
-<img width="20" src="https://github.com/user-attachments/assets/a107fe30-d4ea-4f8d-8679-a0ca609809bc"/> JavaScript
-<img width="20" src="https://github.com/user-attachments/assets/f6fdf457-7602-4643-b850-ce6b073c974b"/>  Python
-* UI/UX
-* Desarrollo web moderno
+Actualmente estoy aprendiendo...
+
+<div>
+  <img width="20" src="https://github.com/user-attachments/assets/49413f82-9be2-41da-926a-5dca412f0a50" /> JavaScript
+</div>
+
+<div>
+  <img width="20" src="https://github.com/user-attachments/assets/49413f82-9be2-41da-926a-5dca412f0a50" /> Python
+</div>
+
+<div>
+  <img width="20" src="https://github.com/user-attachments/assets/49413f82-9be2-41da-926a-5dca412f0a50" /> UI/UX
+</div>
+
+<div>
+  <img width="20" src="https://github.com/user-attachments/assets/49413f82-9be2-41da-926a-5dca412f0a50" /> Desarrollo web moderno
+</div>
+
 
 🚀 Me interesa seguir creciendo como desarrollador, participar en proyectos y adquirir experiencia en el mundo del software.
 
