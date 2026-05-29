@@ -24,11 +24,12 @@ Soy estudiante de Ingeniería de Software en <b>UNIMINUTO</b>, enfocado en desar
 Me interesa construir proyectos funcionales, creativos y visualmente atractivos, mientras continúo aprendiendo nuevas tecnologías y mejorando mi lógica de programación.
 
 Además, constantemente realizo cursos y formaciones relacionadas con programación, desarrollo web, ciberseguridad y tecnología para seguir ampliando mis conocimientos y habilidades.
+<img width="20" src="https://github.com/user-attachments/assets/49413f82-9be2-41da-926a-5dca412f0a50" />
 
 🌱 Actualmente estoy aprendiendo...
 
-* JavaScript
-* Python
+<img width="20" src="https://github.com/user-attachments/assets/a107fe30-d4ea-4f8d-8679-a0ca609809bc"/> JavaScript
+<img width="20" src="https://github.com/user-attachments/assets/f6fdf457-7602-4643-b850-ce6b073c974b"/>  Python
 * UI/UX
 * Desarrollo web moderno
 
@@ -74,14 +75,8 @@ Fuera del desarrollo, disfruto la tecnología, los videojuegos, el anime y explo
 ---
 
 
-##  Contacto
-
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/michaeldavila3407/)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/micchael-davila-orozco/)
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:davilamichaelnn@gmail.com)
+##  Contacto <p align="center"> <a href="https://www.instagram.com/michaeldavila3407/"> <img src="https://skillicons.dev/icons?i=instagram" /> </a> <a href="https://www.linkedin.com/in/micchael-davila-orozco/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:davilamichaelnn@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail&theme=light" /> </a> </p>
 
 ---
 
-<h3 align="center">
-Gracias por visitar mi perfil 🤩
-</h3>
+<h3 align="center"> Gracias por visitar mi perfil </h3> <p align="center"> <img width="110" src="https://github.com/user-attachments/assets/c223c527-2988-4477-98bb-39fbcf8a3c61" /> </p>
