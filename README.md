@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido%20a%20mi%20perfil%20de%20GitHub;Desarrollador%20Frontend%20en%20formación;Apasionado%20por%20las%20tecnologías%20web;Aprendiendo%20nuevos%20lenguajes%20de%20programación;Interesado%20en%20UI%2FUX%20y%20diseño%20de%20interfaces;Siempre%20aprendiendo%20nuevas%20tecnologías&font=Fira%20Code&center=true&width=900&height=80&size=40">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido%20a%20mi%20perfil%20de%20GitHub;Desarrollador%20Frontend%20en%20formación;Apasionado%20por%20las%20tecnologías%20web;Aprendiendo%20nuevos%20lenguajes%20de%20programación;Interesado%20en%20UI%2FUX%20y%20diseño%20de%20interfaces;Siempre%20aprendiendo%20nuevas%20tecnologías&font=Fira%20Code&center=true&width=1000&height=80&size=37">
   </a>
 </p>
 
