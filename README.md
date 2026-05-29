@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img width="180" src="https://github.com/user-attachments/assets/5f1d5fc3-127c-4699-9b36-47c246fae7f2" />
+  <img src="https://github.com/user-attachments/assets/5f1d5fc3-127c-4699-9b36-47c246fae7f2" width="100">
 </p>
 
 <p align="center">
@@ -83,6 +83,8 @@ Fuera del desarrollo, disfruto la tecnología, los videojuegos, el anime y explo
 ##  Gráfico de Actividad
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Davila00007&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ---
 
