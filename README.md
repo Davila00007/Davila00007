@@ -1,10 +1,8 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+    <img width="900" src="https://github.com/user-attachments/assets/1b13892e-9a7b-4f4f-af7c-aa53162b58c6" />
 </div>
 
-<h3 align="center">
-  Hola, soy Michael Davila
-</h3>
+
 
 <p align="center">
   <img width="200" src="https://github.com/user-attachments/assets/5f1d5fc3-127c-4699-9b36-47c246fae7f2" />
