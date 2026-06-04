@@ -70,7 +70,7 @@ Fuera del desarrollo, disfruto explorar todo lo relacionado con la tecnología, 
 
 ###  Herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,windows,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,git,windows,stackoverflow)](https://skillicons.dev)
 
 ---
 
